@@ -4,96 +4,31 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Education
+- **MSc in Mathematical and Computational Finance** - University of Oxford (2023-2024)
+- **BSc in Mathematics, First-Class Honours** - University of Manchester (2021-2023)
+- **BSc in Applied Mathematics** - Tianjin University (2019-2021)
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+## Research Experience
+- **Online Optimization of Neural Network Controls for Stochastic Differential Equations** (2024)
+  - **Role:** MSc student under the supervision of Prof. Justin Sirignano
+  - **Description:** High-dimensional stochastic optimal control is computationally challenging. The optimal control satisfies the Hamilton-Jacobi-Bellman (HJB) equation, which is not computationally tractable to solve in high dimensions (e.g., if the SDE is more than three-dimensional). This project will implement a new online optimization method for training neural network controls for SDEs which is computationally tractable in high dimensions. The trained neural network control will be compared against alternative methods. In low dimensions (three and four dimensions), the trained neural network control will be compared against the optimal control which will be evaluated using finite-difference methods to solve the HJB partial differential equation.
+  - **Technologies Used:** PyTorch, Latex
+    
+- **Optimal stopping and free-boundary problems** (2023)
+  - **Role:** BSc student under the supervision of Prof. Goran Peskir
+  - **Description:** The problem we want to solve is described by the following equation:
+$$
+V_{*}=\inf _{\tau \in \mathcal{M}} \mathbf{E}\left(B_{\tau}-\max _{0 \leqq t \leqq 1} B_{t}\right)^{2}
+$$
+where \( V_{*} \) is the value we wish to calculate, and \( \tau \) is the stopping time we wish to find out.
+  - **Technologies Used:** Latex
+    
+- **Time Series Modelling with Applications in Economics and Public Health** (2022)
+  - **Role:** Independent Researcher
+  - **Description:** Investigated the impacts of currency value movements on the yield and volatility of U.S. technology multinationals using data from two decades.
+  - **Technologies Used:** R, Stata
 
-## Features
-
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
-
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+## Skills
+- **Technical Skills:** Python (advanced), C++ (advanced), R (intermediate)
+- **Soft Skills:** Effective communication, teamwork, analytical thinking
