@@ -15,7 +15,7 @@ layout: page
 
 ## Course Working
 - **MSc in Mathematical and Computational Finance** - University of Oxford (2023-2024)
-- Financial Computing with C++: 75
+-- Financial Computing with C++: 75
 - Statistics, Financial Data Analysis and Deep Learning: 72
 - Dissertation: 67
 - **BSc in Mathematics** - University of Manchester (2021-2023) & Tianjin University (2019-2021)
