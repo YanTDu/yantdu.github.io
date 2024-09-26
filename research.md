@@ -16,11 +16,9 @@ I am currently working on ...
     
 - **Optimal stopping and free-boundary problems** (2023)
   - **Role:** BSc student under the supervision of Prof. Goran Peskir
-  - **Description:** The problem we want to solve is described by the following equation:
-$$
-V_{*}=\inf _{\tau \in \mathcal{M}} \mathbf{E}\left(B_{\tau}-\max _{0 \leqq t \leqq 1} B_{t}\right)^{2}
-$$
-where \( V_{*} \) is the value we wish to calculate, and \( \tau \) is the stopping time we wish to find out.
+  - **Description:**
+<img src="" alt="Photo" style="width: 50px; height: auto;">
+
 
   - **Technologies Used:** Latex
   - [Link](Double_Project.pdf)
@@ -35,8 +33,8 @@ where \( V_{*} \) is the value we wish to calculate, and \( \tau \) is the stopp
 
 ## Reading Notes
 - **Mathematical Foudations of Reinforcement Learning** by Shiyu Zhao [Link]()
-- **Mastering Reinforcement Learning with Python** by Enes Bilgin [Link]()
-- **Reinforcement Learning for Adaptive Dialogue Systems** by Verena Rieser & Oliver Lemon [Link]()
+- **Mastering Reinforcement Learning with Python** by Enes Bilgin 
+- **Reinforcement Learning for Adaptive Dialogue Systems** by Verena Rieser & Oliver Lemon 
 
 
 
