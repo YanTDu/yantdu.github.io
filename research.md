@@ -18,7 +18,7 @@ I am currently working on ...
   - **Role:** BSc student under the supervision of Prof. Goran Peskir
   - **Description:** The problem we want to solve is described by the following equation:
 $$
-\V_f*}=\inf_Atau \in (mathcalM} \mathbf{ELeftB_Ataul-\max_10 (leqq t \lega 1} B_{t/right)^{2)V
+\{V_f*}=\inf_Atau \in (mathcalM} \mathbf{ELeftB_Ataul-\max_10 (leqq t \lega 1} B_{t/right)^{2)V
 $$
 where $V_[*}$ is the value we wish to calculate, and $\tau$ is the stopping time we wish to find out.
   - **Technologies Used:** Latex
