@@ -29,3 +29,14 @@ where \( V_{*} \) is the value we wish to calculate, and \( \tau \) is the stopp
 
 ## Publications
 - **The Impact of Changes in Currency Value on Technology Companies’ Yield and Volatility: A Long-term Perspective** - Published 2023 [Link](https://www.researchgate.net/publication/374541926_The_Impact_of_Changes_in_Currency_Value_on_Technology_Companies'_Yield_and_Volatility_A_Long-Term_Perspective)
+
+## Reading Notes
+- **Mathematical Foudations of Reinforcement Learning** by Shiyu Zhao [Link]()
+- **Mastering Reinforcement Learning with Python** by Enes Bilgin [Link]()
+- **Reinforcement Learning for Adaptive Dialogue Systems** by Verena Rieser & Oliver Lemon [Link]()
+
+
+
+
+
+
