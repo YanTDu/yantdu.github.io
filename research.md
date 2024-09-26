@@ -16,11 +16,9 @@ I am currently working on ...
     
 - **Optimal stopping and free-boundary problems** (2023)
   - **Role:** BSc student under the supervision of Prof. Goran Peskir
-  - **Description:** The problem we want to solve is described by the following equation:
-$$
-V_{*}=\inf _{\tau \in \mathcal{M}} \mathbf{E}\left(B_{\tau}-\max _{0 \leqq t \leqq 1} B_{t}\right)^{2}
-$$
-where \( V_{*} \) is the value we wish to calculate, and \( \tau \) is the stopping time we wish to find out.
+  - **Description:** <p>The solution to the problem is given by the equation:
+\(V_{*} = \inf_{\tau \in \mathcal{M}} \mathbf{E}\left[(B_{\tau} - \max_{0 \leq t \leq 1} B_t)^2\right]\)
+where \( V_{*} \) is the value we wish to calculate, and \( \tau \) is the stopping time we wish to find out.</p>
   - **Technologies Used:** Latex
   - [Link](Double_Project.pdf)
     
