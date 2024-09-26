@@ -17,7 +17,7 @@ I am currently working on ...
 - **Optimal stopping and free-boundary problems** (2023)
   - **Role:** BSc student under the supervision of Prof. Goran Peskir
   - **Description:**
-    <img src="display.jpeg" alt="Photo" style="width: 500px; height: auto;">
+    <img src="display.jpeg" alt="Photo" style="width: 700px; height: auto;">
   - **Technologies Used:** Latex
   - [Link](Double_Project.pdf)
     
