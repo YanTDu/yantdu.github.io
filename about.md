@@ -5,6 +5,7 @@ layout: page
 ---
 
 ## Education
+- **MSc in Machine Learning** - University College London (2024-2025)
 - **MSc in Mathematical and Computational Finance** - University of Oxford (2023-2024)
 - **BSc in Mathematics, First-Class Honours** - University of Manchester (2021-2023)
 - **BSc in Applied Mathematics** - Tianjin University (2019-2021)
