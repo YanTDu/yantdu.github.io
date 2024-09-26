@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md", title: "About"}
   - {file: "research.md", title: "Research"}
   - {file: "contact.md", title: "Contact"}
-  - {url: "https://github.com/yantdu/yantdu.github.io/CV.pdf", title: "CV"}
+  - {url: "https://github.com/yantdu/yantdu.github.io/master/CV.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/yantdu"}
